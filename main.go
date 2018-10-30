@@ -5,7 +5,7 @@ import (
 
 	"github.com/c-bata/go-prompt"
 	"github.com/c-bata/go-prompt/completer"
-	"github.com/c-bata/kube-prompt/kube"
+	"kube-prompt/kube"
 )
 
 var (
