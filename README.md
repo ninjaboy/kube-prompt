@@ -5,6 +5,8 @@
 
 An interactive kubernetes client featuring auto-complete using [go-prompt](https://github.com/c-bata/go-prompt).
 
+*NOTE*: This version was very quickly bootlegged to run in windows cmd/powershell.
+
 ![demo](https://github.com/c-bata/assets/raw/master/kube-prompt/kube-prompt.gif)
 
 kube-prompt accepts the same commands as the kubectl, except you don't need to provide the `kubectl` prefix.
